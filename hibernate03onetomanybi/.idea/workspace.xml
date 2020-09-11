@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37a0e91e-161b-46f6-b442-d05066f7adc7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fN7WPRV6deUCQLCJmB1T0PODKi" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Hibernate_Chad Darby/hibernateinheritance01singletable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hibernate.onetomanybi.Demo" />
+      <recent name="com.hibernate.onetomanybi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vikdlk\IdeaProjects\Spring_Chad Darby\_03Hibernate_Mapping\hibernate03onetomanybi\src\main\java\com\hibernate\onetomanybi\Demo" />
+      <recent name="C:\Users\vikdlk\IdeaProjects\Spring_Chad Darby\_03Hibernate_Mapping\hibernate03onetomanybi\src\main\java\com\hibernate\onetomanybi\Entity" />
+      <recent name="C:\Users\vikdlk\IdeaProjects\Spring_Chad Darby\_03Hibernate_Mapping\hibernate03onetomanybi\src\main\resources" />
+      <recent name="C:\Users\vikdlk\IdeaProjects\Spring_Chad Darby\_03Hibernate_Mapping\hibernate03onetomanybi\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DeleteCoursesDemo">
+    <configuration name="CreateCoursesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibernate.onetomanybi.Demo.CreateCoursesDemo" />
+      <module name="hibernate03onetomanybi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibernate.onetomanybi.Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateInstructorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibernate.onetomanybi.Demo.CreateInstructorDemo" />
+      <module name="hibernate03onetomanybi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibernate.onetomanybi.Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteCoursesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibernate.onetomanybi.Demo.DeleteCoursesDemo" />
+      <module name="hibernate03onetomanybi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibernate.onetomanybi.Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetInstructorCoursesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibernate.onetomanybi.Demo.GetInstructorCoursesDemo" />
+      <module name="hibernate03onetomanybi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibernate.onetomanybi.Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Connections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibernate.onetomanybi.Test_Connections" />
+      <module name="hibernate03onetomanybi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibernate.onetomanybi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeleteCoursesDemo" />
+        <item itemvalue="Application.GetInstructorCoursesDemo" />
+        <item itemvalue="Application.CreateCoursesDemo" />
+        <item itemvalue="Application.CreateInstructorDemo" />
+        <item itemvalue="Application.Test_Connections" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37a0e91e-161b-46f6-b442-d05066f7adc7" name="Default Changelist" comment="" />
+      <created>1596046727764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596046727764</updated>
+      <workItem from="1596046731211" duration="8439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
